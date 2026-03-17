@@ -90,7 +90,7 @@ Divisão da base:
 O modelo apresentou bom desempenho na classificação de sentimentos.
 
 **Acurácia Final:**  
-**91,69%**
+**92,52%**
 
 Os resultados indicam boa capacidade do modelo em classificar automaticamente o sentimento das reclamações.
 
